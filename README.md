@@ -6,5 +6,5 @@
 
 ## Useful links
 - [Wikifactory](https://wikifactory.com/+OttoDIY/otto-diy)
-- [OttoDIYLibs](https://github.com/OttoDIY/OttoDIYLib)
+- [OttoDIYLibs](https://github.com/OttoDIY/OttoDIYLib): Download the zip from release or the entire repo. The zip is included it this repo as well.
 
