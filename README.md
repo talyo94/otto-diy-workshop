@@ -5,7 +5,7 @@
 ## Agenda
 1. Download and install [ArduinoIDE](https://www.arduino.cc/en/Main/software)
 1. Open the kit and familiarize yourself with the different parts.
-1. Start building the robot (pdf + video)
+1. Start building the robot (pdf + [video](https://youtu.be/RS3Pit9_qaM))
 1. Learn how to write code to Otto.
 1. Push your code to Otto and let him dance!
 
