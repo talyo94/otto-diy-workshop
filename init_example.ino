@@ -7,7 +7,7 @@ Otto9 Otto;
 byte leftLeg = 2;
 byte rightLeg = 3;
 byte leftFoot = 4;
-byte rightFoor = 5;
+byte rightFoot = 5;
 byte buzzer = 12;
 byte trigPin = 8;
 byte echoPin = 9;
