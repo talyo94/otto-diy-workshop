@@ -17,7 +17,7 @@ int distance = 0;
 void startDance(); // declaration
 void setup() {
  // put your setup code here, to run once:
- Otto.init(leftLeg, rightLeg, leftFoot, false, 0, buzzer, trigPin, echoPin);
+ Otto.init(leftLeg, rightLeg, leftFoot, rightFoot,false, 0, buzzer, trigPin, echoPin);
  Otto.home(); // reset position
 }
 
