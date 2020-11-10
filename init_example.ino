@@ -39,7 +39,7 @@ void startDance() {
    Otto.moonwalker(3,800,25,1);
    Otto.home();
    Otto.turn(2, 800, -1);
-   Otto.delay(50);
+   delay(50);
    Otto.jump(1, 2000);
    Otto.home();
 
